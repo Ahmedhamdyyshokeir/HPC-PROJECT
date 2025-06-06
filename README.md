@@ -129,4 +129,5 @@ project_hpc_covid_classification/
 ├── screenshots/
 └── Final_Report.pdf
 ```
-
+## 📁 Data File
+https://drive.google.com/drive/folders/15NBYH-pR2GOZK6OvZgBzOZIznmpmjHR7?usp=sharing
