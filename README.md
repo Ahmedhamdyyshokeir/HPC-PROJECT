@@ -101,9 +101,6 @@ mpirun -np 3 --hostfile hostfile python distributed_covid_classification.py
 docker swarm init
 docker stack deploy -c spark-stack.yml spark_cluster
 ```
-Access:
-- JupyterLab: http://<master-ip>:8888
-- Spark UI: http://<master-ip>:8080
 
 ---
 
